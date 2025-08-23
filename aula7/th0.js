@@ -28,16 +28,16 @@ console.log(n)
 var num1 = 5
 
 num1++   // num1 + 1
-console.log(num)
+console.log(num1)
 
 num1--   // num1 - 1
-console.log(num)
+console.log(num1)
 
 //pré-incremento:
 var num2 = 5
 
 ++num2  // 1 + num2
-console.log(num1)
+console.log(num2)
 
 --num2  // 1 - num2
-console.log(num1)
+console.log(num2)
